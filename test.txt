@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 Git is a version control system.
 Git is free software.
 Git is a version control system.
 Git is a version control system.
 Git is a version control system.
-=======
+
 shdfjsdndfjn
->>>>>>> ee17408ea5368dd6e7894e1c16a08d34f2e2be4b
+
